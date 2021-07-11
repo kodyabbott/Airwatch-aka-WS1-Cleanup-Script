@@ -1,2 +1,2 @@
-# Airwatch Cleanup Script
- Airwatch Cleanup Script written in Python
+# VMWare Workspace One (Airwatch) Cleanup Script
+ VMWare Workspace One (Airwatch) Cleanup Script
